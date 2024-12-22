@@ -51,7 +51,7 @@ HTTP (XRAY ✅ SING-BOX ✅)
 sing-box version : 1.8.23 recommended version ! 
 
 ```
-rm -f amirhossein.sh && wget https://raw.githubusercontent.com/amirhosseinchoghaei/mi4agigabit/main/amirhossein.sh && chmod 777 amirhossein.sh && sh amirhossein.sh
+rm -f amirhossein.sh && wget https://raw.githubusercontent.com/rony432/Passwall-Openwrt/main/amirhossein.sh && chmod 777 amirhossein.sh && sh amirhossein.sh
 ```
 
 Done !
@@ -80,7 +80,7 @@ amir reload
 # Uninstall :
 
 ```
-rm -f unis.sh && wget -q https://raw.githubusercontent.com/amirhosseinchoghaei/Install-Xray-V2ray-On-Passwall-Openwrt/main/unis.sh && chmod 777 unis.sh && sh unis.sh
+rm -f unis.sh && wget -q https://raw.githubusercontent.com/rony432/Passwall-Openwrt/main/unis.sh && chmod 777 unis.sh && sh unis.sh
 ```
 
 
