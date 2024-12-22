@@ -168,7 +168,7 @@ else
 
 fi
 
-wget https://raw.githubusercontent.com/amirhosseinchoghaei/mi4agigabit/main/owo.sh
+wget https://raw.githubusercontent.com/rony432/Passwall-Openwrt/main/owo.sh
 
 chmod 777 owo.sh
 
@@ -189,7 +189,7 @@ fi
 
 
 
-wget https://raw.githubusercontent.com/amirhosseinchoghaei/mi4agigabit/main/up.sh
+wget https://raw.githubusercontent.com/rony432/Passwall-Openwrt/main/up.sh
 
 chmod 777 up.sh
 
@@ -209,7 +209,7 @@ else
 
 fi
 
-wget https://raw.githubusercontent.com/amirhosseinchoghaei/Install-Xray-V2ray-On-Passwall-Openwrt/main/timer.sh
+wget https://raw.githubusercontent.com/rony432/Passwall-Openwrt/main/timer.sh
 
 chmod +x timer.sh
 
@@ -229,7 +229,7 @@ else
 
 fi
 
-wget https://raw.githubusercontent.com/amirhosseinchoghaei/Install-Xray-V2ray-On-Passwall-Openwrt/main/amir2
+wget https://raw.githubusercontent.com/rony432/Passwall-Openwrt/main/amir2
 
 chmod 777 amir2
 
@@ -258,7 +258,7 @@ else
 fi
 
 
-wget https://raw.githubusercontent.com/amirhosseinchoghaei/mi4agigabit/main/amir
+wget https://raw.githubusercontent.com/rony432/Passwall-Openwrt/main/amir
 
 chmod +x /etc/init.d/amir
 
@@ -398,7 +398,7 @@ uci commit system
 
 cd
 
-uci set system.@system[0].hostname=By-AmirHossein
+#uci set system.@system[0].hostname=By-AmirHossein
 
 uci commit system
 
